@@ -1,6 +1,8 @@
 # README
 This repo is for BDATA 200 practice in using git/Github. The general lesson plan follows this [Data Carpentry lesson on using version control for reproducible research](https://datacarpentry.org/rr-version-control/).
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yeemey/bdata-200-yeemey/HEAD) to run the notebooks on the JupyterHub server online.
+
 **The following lines are student edits that have been merged via pull requests.**
 
 ## new edit
