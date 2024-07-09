@@ -5,3 +5,7 @@ This repo is for BDATA 200 practice in using git/Github. The general lesson plan
 
 ## git/GitHub Collaboration Practice
 Practice forking and opening pull requests by forking [this other repo](https://github.com/yeemey/quotes) and adding a quote to it.
+
+### TODO
+- Update for Fall 2024.
+- Add links to Full Spectrum Bioinformatics and Stats Thinking for the 21st Century texts.
