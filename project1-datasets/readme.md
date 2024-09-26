@@ -48,4 +48,8 @@ Users Rated,Rating Average,BGG Rank,Complexity Average,Owned Users,Mechanics,Dom
 - Columns: Channel,Watch time(Minutes),Stream time(minutes),Peak viewers,
 Average viewers,Followers,Followers gained,Views gained,Partnered,Mature,Language
 
+## Facebook Stock Data
+- Description: CSV file containing stock prices for Facebook.
+- Source: [kaggle](https://www.kaggle.com/datasets/aayushmishra1512/faang-complete-stock-data)
+- Columns: Date,Open,High,Low,Close,Adj Close,Volume
 
