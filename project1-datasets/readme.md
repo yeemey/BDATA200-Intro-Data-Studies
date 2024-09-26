@@ -42,10 +42,10 @@ Submitted Minimal File?, Author List?, Cover Sheet?, Annotation Submission Date
 - Columns: ID,Name,Year Published,Min Players,Max Players,Play Time,Min Age,
 Users Rated,Rating Average,BGG Rank,Complexity Average,Owned Users,Mechanics,Domains
 
-## 
-- Description: Wading Birds in South America (1900-2024)
-- Source: [Global Biodiversity Information Facility](https://www.gbif.org/dataset/search) and
-[eBird, Cornell Lab of Ornithology](https://ebird.org/home)
-- Columns: 
-- Citation: GBIF.org (24 September 2024) GBIF Occurrence Download: https://doi.org/10.15468/dl.vfxk3x
+## twitchdata-update.csv 
+- Description: CSV file of top Twitch streamers.
+- Source: [kaggle](https://www.kaggle.com/datasets/aayushmishra1512/twitchdata?resource=download)
+- Columns: Channel,Watch time(Minutes),Stream time(minutes),Peak viewers,
+Average viewers,Followers,Followers gained,Views gained,Partnered,Mature,Language
+
 
