@@ -7,6 +7,10 @@ data types.
 The [documentation](https://fdc.nal.usda.gov/data-documentation.html) describes
 available datasets, e.g. commercial food labels data.
 
+## Consumer Financial Protection Bureau
+- [CFPB Data and Research](https://www.consumerfinance.gov/data-research/)
+Includes financial well-being survey data and consumer complaints data.
+
 ## US Census Bureau
 - [US Census Bureau Data Tables](https://data.census.gov/table)
 Filter results from various surveys to get data tables for your project.
@@ -17,7 +21,7 @@ Filter results from various surveys to get data tables for your project.
 - [NBER Public Use Data
 Archive](https://www.nber.org/research/data?page=1&perPage=50)
 > The NBER Public Use Data Archive is an eclectic mix of public-use economic, 
-> demographic, and enterprise data ...
+> demographic, and enterprise data...
 
 ## Bureau of Transportation
 - [US Bureau of Transportation Statistics](https://www.bts.gov/browse-statistical-products-and-data)
